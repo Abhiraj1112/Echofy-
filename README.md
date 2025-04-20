@@ -1,8 +1,3 @@
-al README.md file for your responsive website project built with HTML and CSS:
-
-markdown
-Copy
-Edit
 # 🌐 Responsive Website with HTML & CSS
 
 Welcome to my responsive website project! This is a simple yet elegant website built using **HTML5** and **CSS3** to demonstrate responsive design principles. The site adapts beautifully across desktops, tablets, and mobile devices.
