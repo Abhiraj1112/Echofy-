@@ -16,5 +16,3 @@ Welcome to my responsive website project! This is a simple yet elegant website b
 - **CSS3** – Used for styling and responsive layout
 - **Media Queries** – To adapt the design to different screen sizes
 
-## 📁 Folder Structure
-
